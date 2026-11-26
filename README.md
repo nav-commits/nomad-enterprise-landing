@@ -2,15 +2,11 @@
 
 Independent hiring assignment for a proposed enterprise transportation platform. The page introduces fraud review, cross-carrier visibility, and connected fuel and factoring data to fleet finance, operations, and risk leaders. The assignment targets a **20% relative lift in confirmed demo requests**.
 
-## Run locally
+## Preview locally
 
-From this directory, run:
+Open `index.html` directly in a browser. Keep the `css` and `js` folders alongside it so the relative file paths resolve.
 
-```sh
-python3 -m http.server 8765 --bind 127.0.0.1
-```
-
-Open [the local preview](http://127.0.0.1:8765/). There is no build or install step.
+The site uses HTML, CSS, vanilla JavaScript, and SVG graphics. A browser is all you need to preview it. The project has no dependencies, local server, or build step.
 
 ## Project structure
 
